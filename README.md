@@ -6,4 +6,4 @@ Don't Lose Points by Selecting the Wrong Perks!
 - **Display icons for selected perks**
 - **Create and modify presets of your current builds**
 
-![BuildsChecker_cmvGgNg7ZM](https://user-images.githubusercontent.com/59248568/229721376-6ffe9cee-080c-432c-b530-811a14ed611f.png)
+![BuildsChecker_BwCTCfLZQF](https://user-images.githubusercontent.com/59248568/229740509-0c8ac64f-068d-4be9-942c-f6fc15ec9ec6.png)
